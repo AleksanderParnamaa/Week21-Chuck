@@ -1,0 +1,16 @@
+C:\Users\opilane\source\repos\ChuckConsole\ChuckFrom\bin\Debug\ChuckFrom.exe.config
+C:\Users\opilane\source\repos\ChuckConsole\ChuckFrom\bin\Debug\ChuckFrom.exe
+C:\Users\opilane\source\repos\ChuckConsole\ChuckFrom\bin\Debug\ChuckFrom.pdb
+C:\Users\opilane\source\repos\ChuckConsole\ChuckFrom\bin\Debug\Newtonsoft.Json.dll
+C:\Users\opilane\source\repos\ChuckConsole\ChuckFrom\bin\Debug\Newtonsoft.Json.xml
+C:\Users\opilane\source\repos\ChuckConsole\ChuckFrom\obj\Debug\ChuckFrom.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\ChuckConsole\ChuckFrom\obj\Debug\ChuckFrom.Form1.resources
+C:\Users\opilane\source\repos\ChuckConsole\ChuckFrom\obj\Debug\ChuckFrom.Properties.Resources.resources
+C:\Users\opilane\source\repos\ChuckConsole\ChuckFrom\obj\Debug\ChuckFrom.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\ChuckConsole\ChuckFrom\obj\Debug\ChuckFrom.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ChuckConsole\ChuckFrom\obj\Debug\ChuckFrom.csproj.CopyComplete
+C:\Users\opilane\source\repos\ChuckConsole\ChuckFrom\obj\Debug\ChuckFrom.exe
+C:\Users\opilane\source\repos\ChuckConsole\ChuckFrom\obj\Debug\ChuckFrom.pdb
+C:\Users\opilane\Desktop\Week21-ChuckConsole-master\ChuckFrom\obj\Debug\ChuckFrom.csprojAssemblyReference.cache
+C:\Users\opilane\Desktop\Week21-ChuckConsole-master\ChuckFrom\obj\Debug\ChuckFrom.exe
+C:\Users\opilane\Desktop\Week21-ChuckConsole-master\ChuckFrom\obj\Debug\ChuckFrom.pdb
